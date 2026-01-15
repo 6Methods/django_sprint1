@@ -6,4 +6,3 @@ urlpatterns = [
     path('pages/', include('pages.urls')),
     path('', include('blog.urls')),
 ]
-
